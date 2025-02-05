@@ -30,12 +30,5 @@ cv2.imshow('Red',R)
 cv2.waitKey(0)
 
 
-########################
-
-
-
-##Exiting Function######
 
 cv2.destroyAllWindows()
-
-########################
