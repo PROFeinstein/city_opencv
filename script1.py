@@ -36,4 +36,3 @@ cv2.imwrite(filename, img)
 ##Exiting Function######
 cv2.waitKey(0)
 cv2.destroyAllWindows
-########################
