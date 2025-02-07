@@ -7,12 +7,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-#######################
+########
 
 #path = r"/"
 
 
-### Read an Image #####
+### Read an Image ###
 
 img = cv2.imread('snow.jpg')
 
