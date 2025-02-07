@@ -21,6 +21,8 @@ img = cv2.imread('blue.jpg')
 
 channels = cv2.split(img)
 
+#channels
+
 eq_channel = []
 
 for ch, color in zip(channels, ['B', 'G', 'R']):
